@@ -16,6 +16,6 @@ while True:
         a.append(int(d))
 for i in range(len(a)):
     if a[i] in fib:
-        print(a[i],"is in Fibonaci Seroes")
+        print(a[i],"is in Fibonacci Series")
     else:
         print(a[i],"is not in Fibonacci Series")
